@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перечень товаров", "Перечень товаров\Перечень товаров.csproj", "{1D416D36-4EB4-41BB-8BA4-9E2E5671D098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Информация о товаре", "Информация о товаре\Информация о товаре.csproj", "{62125CEB-51A4-4DCC-A1D1-C8BB2C5763FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D416D36-4EB4-41BB-8BA4-9E2E5671D098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D416D36-4EB4-41BB-8BA4-9E2E5671D098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D416D36-4EB4-41BB-8BA4-9E2E5671D098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D416D36-4EB4-41BB-8BA4-9E2E5671D098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62125CEB-51A4-4DCC-A1D1-C8BB2C5763FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62125CEB-51A4-4DCC-A1D1-C8BB2C5763FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62125CEB-51A4-4DCC-A1D1-C8BB2C5763FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62125CEB-51A4-4DCC-A1D1-C8BB2C5763FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30576D65-FD34-4B0A-858E-0B4508D02CC5}
+	EndGlobalSection
+EndGlobal
